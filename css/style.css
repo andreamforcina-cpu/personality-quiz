@@ -1,6 +1,10 @@
+
 .selected {
     background-color: #007bff;
     color: white;
     border-color: #007bff;
 }
-  
+
+.answer-btn {
+    margin-bottom: 8px;
+}
